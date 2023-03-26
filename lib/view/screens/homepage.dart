@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
                 itemBuilder: (BuildContext context, int index) {
                   return Container1(
                       1.0,
-                      2.0,
+                      5.0,
                       20.0,
                       0.0,
                       2.0,
